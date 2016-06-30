@@ -97,7 +97,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         mProgressView = findViewById(R.id.login_progress);
     }
 
-
+//ciao
     private void populateAutoComplete() {
         if (!mayRequestContacts()) {
             return;
