@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("Raspi Home");
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.email_sign_in_button);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
