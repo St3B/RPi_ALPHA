@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_admin) {
 
         } else if (id == R.id.nav_settings) {
-
+            setContentView(R.layout.activity_activity_impostazioni);
         } else if (id == R.id.nav_about) {
 
         }
