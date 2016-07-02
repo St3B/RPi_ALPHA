@@ -9,4 +9,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="app.stefa.rpi_alpha.ActivityImpostazioni">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/setTitolo"
+        android:id="@+id/settTitle"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
