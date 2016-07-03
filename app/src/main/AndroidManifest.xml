@@ -22,7 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ActivityImpostazioni"></activity>
+        <activity android:name=".ActivityImpostazioni" />
+        <activity android:name=".website"></activity>
     </application>
 
 </manifest>
